@@ -5,12 +5,13 @@ Algoritmo para identificar se o usuário pode estacionar em vaga especial
 
 Inicio
 
-se aprovado no exame psicotecnico
-se aprovado no exame de legislacao
-se aprovado no exame de direcao
-aprovado para solicitar a cnh
-fim Enquanto 
-se nao
-nao esta apto para ter habilitacao
+    se aprovado no exame psicotecnico
+    se aprovado no exame de legislacao
+    se aprovado no exame de direcao
+    aprovado para solicitar a cnh
+    fim Enquanto 
+    se nao
+    nao esta apto para ter habilitacao
+    
 Fim
 
